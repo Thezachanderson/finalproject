@@ -1,0 +1,11 @@
+Start:
+    Menu for the player, (highscores?, settings?)
+Once started:
+    generate first level:
+        generation pattern to be determined,
+        but should include: generating rooms, including start and end rooms for level
+    start player in starting room
+    player should travel room by room until they reach the end room of the level
+        while traveling: enemies to fight, puzzles?, loot to obtain
+    Once end room reached, generate next level, and scale difficulty for player
+Continue this until the player fails, and keep score as enemies are killed, loot is obtained, and puzzles are solved?

@@ -1,0 +1,9 @@
+Enemy 1: Eye:
+    Uses lasers, or ranged direct attack on player, with damage dealt (along with range?) scaling with difficulty
+Enemy 2: Cloaked:
+    Uses limited area of effect attack on player, with damage dealt scaling with difficulty
+Enemy 3: Rodney the rat:
+    Uses melee attack on player, with damage dealt scaling with difficulty
+
+All enemies spawn at potential predetermined spots in rooms. They also will have an in room determined travel route
+that will change to follow player when player is detected by that Enemy.

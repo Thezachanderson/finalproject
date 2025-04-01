@@ -1,0 +1,12 @@
+| Zachary Anderson 3/31/24                 |
+|------------------------------------------|
+| 15 | Enemy Design and Ideas for features |
+| 10 | Game features and Game loop         |
+| 5  | Enemy 1 Pixel Art                   |
+| 5  | Enemy 2 Pixel Art                   |
+| 5  | Enemy 3 Pixel Art                   |
+|------------------------------------------|
+
+GitHub with all progress and documentation:
+https://github.com/Thezachanderson/finalproject
+

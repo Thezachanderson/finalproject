@@ -1,0 +1,14 @@
+The puzzles are a potential feature that will involve 2d sprites in a pop up window that the player will solve to activate other in room features.
+These features could include the creation of enemies, treasure chests, doors being opened, etc.
+
+Puzzle ideas include:
+
+Gearbox:
+    Gear sprites to be rotated to match a certain alignment
+
+Simon says:
+    Buttons will light in order, starting with one, that player must match the order. This will continue with an increased nunmber in the pattern
+    that stops after an amount that is scaled to the difficulty of that level.
+
+Maze:
+    player is given a grid with walls and must find a solution to the maze. This may be too difficult to implement.
