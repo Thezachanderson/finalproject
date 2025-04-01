@@ -1,0 +1,11 @@
+Alexander Rother
++10 | Unity scene with movable player
++10 | Working rooms
++10 | Procedural room generation
++10 | Working enemies
+
+Zachary Anderson
++10 | (?) Playermodel pixelart
++10 | (?) Heart pixelart
++10 | (?) Sword pixelart
++10 | (?) World textures
